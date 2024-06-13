@@ -56,7 +56,7 @@ export default function Uses() {
         </ToolsSection>
         <ToolsSection title="Dev Stack">
           <Tool title="Neovim">
-            I'm on the vim learning path as we speak and I am loving it. Here is my current lua config: https://github.com/drewbeno1/nvim-config
+            I am on the vim learning path as we speak and I am loving it. Here is my current lua config: https://github.com/drewbeno1/nvim-config
           </Tool>
           <Tool title="Django">
             My background in tech began with Python business ETLs. Naturally, Django was my first step into the world of web app development. It is a great framework that launched me into software and it is the backend framework that I most enjoy.
