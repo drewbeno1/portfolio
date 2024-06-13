@@ -47,34 +47,31 @@ export default function Uses() {
     >
       <div className="space-y-20">
         <ToolsSection title="Workstation">
-          <Tool title="15” MacBook Air, M2, 24GB RAM (2023)">
-            I am a sucker for a quality mac!
+          <Tool title="15” MacBook Air, M2, 24GB RAM">
+            2023
           </Tool>
           <Tool title="Keychron K3 Ultra-slim Wireless Mechanical Keyboard">
             I would highly recommend keychron for quality mechanical keyboards and cool artisan keycaps.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Dev Stack">
+          <Tool title="Neovim">
+            I'm on the vim learning path as we speak and I am loving it. Here is my current lua config: https://github.com/drewbeno1/nvim-config
+          </Tool>
           <Tool title="Django">
             My background in tech began with Python business ETLs. Naturally, Django was my first step into the world of web app development. It is a great framework that launched me into software and it is the backend framework that I most enjoy.
-          </Tool>
-          <Tool title="GOLang">
-            Gophers unite!
           </Tool>
           <Tool title="Vue.js">
             There are too many JS Frameworks to count. My go-to favorite is Vue.js, but i am of course a fan of react as well. I try not to limit myself to any one framework for frontend work, but for now, Vue.js would be my highest recommendation.
           </Tool>
           <Tool title="TypeScript">
-            At this point, I am too reliant on typescript to not include it in this list. The type safety and intellisense boost my production speed and confidence in my code.
+            Type safety has been a huge help to my frontend development experience, and makes Javascript much more enjoyable to write.
           </Tool>
           <Tool title="Tailwind CSS">
             I struggled with frontend dev when I was first learning, but tailwind completely boosted my css knowlede and efficiency and now I enjoy the frontend design aspect of the web.
           </Tool>
           <Tool title="Vite">
             Vite is my go-to build tool.
-          </Tool>
-          <Tool title="VSCode">
-            Yes, VSCode is great. But i am trying to learn vim...btw
           </Tool>
         </ToolsSection>
         <ToolsSection title="Productivity">
