@@ -56,22 +56,28 @@ export default function Uses() {
         </ToolsSection>
         <ToolsSection title="Dev Stack">
           <Tool title="Neovim">
-            I am on the vim learning path as we speak and I am loving it. Here is my current lua config: https://github.com/drewbeno1/nvim-config
+            Here is my current lua config: https://github.com/drewbeno1/nvim-config
           </Tool>
           <Tool title="Django">
             My background in tech began with Python business ETLs. Naturally, Django was my first step into the world of web app development. It is a great framework that launched me into software and it is the backend framework that I most enjoy.
           </Tool>
+          <Tool title="Go">
+            Discord botes, system tools. Go has been a great tool for me to learn and use in my projects.
+          </Tool>
           <Tool title="Vue.js">
-            There are too many JS Frameworks to count. My go-to favorite is Vue.js, but i am of course a fan of react as well. I try not to limit myself to any one framework for frontend work, but for now, Vue.js would be my highest recommendation.
+            There are too many JS Frameworks to count, but my go-to favorite is Vue.js.
           </Tool>
           <Tool title="TypeScript">
-            Type safety has been a huge help to my frontend development experience, and makes Javascript much more enjoyable to write.
+            Type tooling has been a huge help to my frontend development experience, and makes Javascript much more enjoyable to write.
           </Tool>
           <Tool title="Tailwind CSS">
             I struggled with frontend dev when I was first learning, but tailwind completely boosted my css knowlede and efficiency and now I enjoy the frontend design aspect of the web.
           </Tool>
           <Tool title="Vite">
-            Vite is my go-to build tool.
+            npm create-vite, just like that!
+          </Tool>
+          <Tool title="Docker">
+            .
           </Tool>
         </ToolsSection>
         <ToolsSection title="Productivity">

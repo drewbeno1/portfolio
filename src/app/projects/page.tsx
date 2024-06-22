@@ -44,7 +44,7 @@ const siteProjects = [
   {
     name: 'Summit Nutrients',
     description:
-      'Contributed to the website for Summit Nutrients, a partnered company with Wedgworth Inc.',
+      'Maintaining the website for Summit Nutrients, a partnered company with Wedgworth Inc.',
     link: { href: 'https://summitnutrients.com', label: 'summitnutrients.com' },
     logo: summit,
   },
