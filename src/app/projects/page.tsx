@@ -49,6 +49,13 @@ const siteProjects = [
     logo: summit,
   },
   {
+    name: 'Mia Joi Portfolio',
+    description:
+      'Portfolio for my florist sister. Vite, vue, tailwind.',
+    link: { href: 'https://miajoisflorals.com', label: 'Here' },
+    logo: favicon,
+  },
+  {
     name: 'This Portfolio',
     description:
       'This portfolio, built with Tailwind, next.js, and react.',

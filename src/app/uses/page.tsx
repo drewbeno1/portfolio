@@ -74,7 +74,7 @@ export default function Uses() {
             I struggled with frontend dev when I was first learning, but tailwind completely boosted my css knowlede and efficiency and now I enjoy the frontend design aspect of the web.
           </Tool>
           <Tool title="Vite">
-            npm create-vite, just like that!
+            npm create vite, just like that!
           </Tool>
           <Tool title="Docker">
             .
