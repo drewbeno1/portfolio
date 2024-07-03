@@ -29,7 +29,7 @@ export default async function Home() {
             Software Engingeer and outdoor enthusiast.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Drew, a software engineer based in south central Florida, USA. I've had the joy of focusing on agricultural technology.
+            I’m Drew, a software engineer based in south central Florida, USA. I have had the joy of focusing on agricultural technology.
             I’m passionate about the outdoors, and you can often find me hunting, fishing, or spending time with my wife and dog! <br />
             Reach me at: benodrew12@gmail.com
           </p>
